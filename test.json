@@ -1,0 +1,10 @@
+[{
+        "title": "hello world",
+        "location": { "no": "16", "street": "My Dinh", "ward": "Mai Dich", "district": "Cau Giay", "city": "Ha Noi" },
+        "price": 2000,
+        "size": "50m2",
+        "electric": "123",
+        "water": "123"
+    },
+    {}
+]
